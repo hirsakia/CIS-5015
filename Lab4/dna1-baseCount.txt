@@ -1,0 +1,5 @@
+Total number of DNA bases: 10000
+A count: 2476
+T count: 2550
+C count: 2486
+G count: 2488

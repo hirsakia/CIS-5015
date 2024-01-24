@@ -1,0 +1,1 @@
+GC count for dna1 is: 0.5036

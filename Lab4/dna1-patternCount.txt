@@ -1,0 +1,1 @@
+Occurrences of pattern 'ATGTTG': 2

@@ -1,0 +1,1 @@
+top 5 most frequent k=5 motifs in dna1: [('CAAGT', 25), ('ATTTA', 20), ('CCAGG', 19), ('CCAAG', 19), ('AGTTA', 19)]

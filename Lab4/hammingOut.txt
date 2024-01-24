@@ -1,0 +1,1 @@
+Hamming Distance for dna1 and dna2 is: 7559
